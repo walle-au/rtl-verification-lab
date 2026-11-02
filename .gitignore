@@ -1,0 +1,8 @@
+.venv/
+sim_build/
+__pycache__/
+.pytest_cache/
+results.xml
+*.vcd
+*.fst
+.claude/settings.local.json
