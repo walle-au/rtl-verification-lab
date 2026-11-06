@@ -3,6 +3,10 @@ sim_build/
 __pycache__/
 .pytest_cache/
 results.xml
+*.result.xml
 *.vcd
 *.fst
 .claude/settings.local.json
+
+# Guía personal de estudio (no se publica)
+docs/GUIA.md
